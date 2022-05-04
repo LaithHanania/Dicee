@@ -1,3 +1,4 @@
+Note: this repository was initially cloned from AppBrewery for skeleton code to follow the course and learn the basics of Swift.
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
